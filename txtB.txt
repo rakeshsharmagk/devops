@@ -1,1 +1,1 @@
-this is textB example 
+this is textB example " this is fileB version 1.0"
